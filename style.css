@@ -64,8 +64,7 @@ li {
 
 .lista-ul {
     display: flex;
-    justify-content: center;
-    gap: 1.1rem;
+    justify-content: space-around;
     list-style: none;
     padding-top: 0.3rem;
 }
@@ -216,7 +215,8 @@ footer p {
     }
 
     .lista-ul{
-        gap: 2rem;
+        gap: 3rem;
+        justify-content: center;
     }
 
     li {
