@@ -45,13 +45,14 @@ li {
 .menu-simbolico {
     background-color: #03045e;
     width: 100%;
-    height: auto;
+    height: 2rem;
 }
 
 .lista-ul {
     display: flex;
     justify-content: space-around;
     list-style: none;
+    padding-top: 0.3rem;
 }
 
 .container h2 {
